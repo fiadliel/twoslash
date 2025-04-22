@@ -6,6 +6,7 @@ catalog:
   '@antfu/eslint-config': ^4.10.1
   '@iconify-json/ri': ^1.2.5
   '@iconify-json/svg-spinners': ^1.2.2
+  '@jridgewell/sourcemap-codec': ^1.5.0
   '@shikijs/markdown-it': ^3.2.1
   '@shikijs/transformers': ^3.2.1
   '@shikijs/twoslash': ^3.2.1
@@ -19,6 +20,7 @@ catalog:
   '@typescript/vfs': ^1.6.1
   '@unocss/reset': ^66.0.0
   '@vitest/coverage-v8': ^3.0.8
+  '@volar/language-core': ^2.4.12
   '@vue/language-core': 2.2.4
   '@vueuse/core': ^13.0.0
   bumpp: ^10.1.0
